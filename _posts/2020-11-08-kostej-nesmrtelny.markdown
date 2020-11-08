@@ -31,7 +31,7 @@ Přidáme
 - 3 kávové lžičky drceného kmínu
 
 Postup
-- Důkladně prohněteme dánskou metlou (nebo vařečkou) alespoň *10 minut*. Tuto fázi *nepodcenit*. Opravdu to  trvá tak dlouho! Nepřidávejte mouku, pokud se vám těsto zdá řídké, ale více hněťte. Těsto se přestane lepit na vařečku.
+- Důkladně prohněteme [dánskou metlou](https://zevsi.cz/blog/k-cemu-je-danska-metla-na-testo-neboli-brodpisker-a-jak-vam-pomuze) (nebo vařečkou) alespoň *10 minut*. Tuto fázi *nepodcenit*. Opravdu to  trvá tak dlouho! Nepřidávejte mouku, pokud se vám těsto zdá řídké, ale více hněťte. Těsto se přestane lepit na vařečku.
 - Necháme ještě tak 1 až 2 hodiny nakynout při pokojové teplotě v míse. Kynutí je poměrně pomalé a není tak moc vidě. Nečekejte tak viditelný pokrok jak např. u buchet.
 - Vyklopíme na pomoučený vál a těsto přeložíme (vezmeme "roh" těsta a překlopíme ho jakoby do středu. Lehce pootočíme, vezmeme další roh a opět přeložíme. Opakujeme několikrát).
 - Vytvarujeme bochník a dáme do pomoučené ošatky kynout ještě tak další hodinu nebo dvě. Těsto je vykynuté, pokud se při píchnutí prstem pomalu vrátí zpět během asi jedné minuty. Pokud je to dříve, ještě může kynout.
