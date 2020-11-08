@@ -4,7 +4,9 @@ title:  Kváskový chleba "Kostěj nesmrtelný"
 date:   2020-11-08 11:23:56 +0100
 categories: recepty kvaskovy-chleb
 ---
-Super jednoduchý přenično žitný chleba, výsledná hmotnost chleba je cca 1.3kg. V podstatě lehká adaptace receptu [Celokváskový pšenično-žitný chléb](http://www.pekarnomanie.cz/celokvaskovy-psenicno-zitny-chleb/) z [Pekárnománie](http://www.pekarnomanie.cz) na moje podmínky.
+Super jednoduchý přenično žitný chleba, výsledná hmotnost chleba je cca 1.3kg. První chleba, který jsem kdy pekl. A stále můj nejoblíbenější denní chleba.
+
+Recept vychází z receptu [Celokváskový pšenično-žitný chléb](http://www.pekarnomanie.cz/celokvaskovy-psenicno-zitny-chleb/) z [Pekárnománie](http://www.pekarnomanie.cz) a trochu jsem ho upravil na moje podmínky.
 
 
 ![Kváskový chléb "Kostěj nesmrtelný"](/assets/kvaskovy-chleb-kostej-nesmrtelny.jpg)
@@ -15,7 +17,7 @@ Super jednoduchý přenično žitný chleba, výsledná hmotnost chleba je cca 1
 Do mísy dáme 
 - 300g žitné chlebové mouky
 - 300g vody
-- 75 gramů kvasu
+- 75g kvasu
 
 a zamícháme.
 
@@ -23,24 +25,23 @@ a zamícháme.
 Rozkvas by měl být už krásně nakynutý, měl by být cítit po chlebu, mírně nakyslý a s dírkami po uniklém CO<sup>2</sup>.
 
 Přidáme 
-- 120g vody
+- 150g vody
 - 500g pšeničné chlebové mouky
 - 4 kávové lžičky soli
 - 3 kávové lžičky drceného kmínu
 
 Postup
 - Důkladně prohněteme dánskou metlou (nebo vařečkou) alespoň *10 minut*. Tuto fázi *nepodcenit*. Opravdu to  trvá tak dlouho! Nepřidávejte mouku, pokud se vám těsto zdá řídké, ale více hněťte. Těsto se přestane lepit na vařečku.
-- Necháme ještě tak hodinku nebo dvě nakynout při pokojové teplotě.
-- Pak vyklopíme na pomoučený vál a těsto přeložíme (vezmeme "roh" těsta a překlopíme ho jakoby do středu. Lehce pootočíme, vezmeme další roh a opět přeložíme). A to několikrát. 
-- Vytvarujeme bochník a dáme do pomoučené ošatky kynout ještě tak další hodinu nebo dvě. 
-Těsto je vykynuté, pokud se při píchnutí prstem pomalu vrátí zpět. 
+- Necháme ještě tak 1 až 2 hodiny nakynout při pokojové teplotě v míse.
+- Vyklopíme na pomoučený vál a těsto přeložíme (vezmeme "roh" těsta a překlopíme ho jakoby do středu. Lehce pootočíme, vezmeme další roh a opět přeložíme). A to několikrát. 
+- Vytvarujeme bochník a dáme do pomoučené ošatky kynout ještě tak další hodinu nebo dvě. Těsto je vykynuté, pokud se při píchnutí prstem pomalu vrátí zpět během asi jedné minuty. Pokud je to dříve, ještě může kynout.
 
 ### Pečení
-- Do trouby vložíme plech a troubu rozpálíme na 250 stupňů. 
-- Poté, co kontrolka ukáže dosažení teploty ještě chvilku počkáme a pak rozpálený plech vyndáme, chleba na něj překlopíme, můžeme naříznout žiletkou nebo skalpelem a zase rychle vrátíme do trouby.
-- Pečeme 15 minut na 25O 
-- Poté 35 minut na 210 stupňů.
+- Do trouby vložíme plech a troubu rozpálíme na 250°C 
+- Poté, co kontrolka ukáže dosažení teploty, ještě chvilku počkáme a pak rozpálený plech vyndáme, chleba na něj překlopíme. Můžeme naříznout žiletkou nebo skalpelem a zase rychle vrátíme do trouby
+- Pečeme 15 minut na 25O °C
+- Poté 35 minut na 210 °C
 
-Po upečení odděláme z plechu dáme chleba odpočinout na mřížku (aby se nezapařil).
+Po upečení odděláme z plechu a dáme chleba odpočinout na mřížku (aby se nezapařil).
 
 Nakrojit se může teprve až bude úplně vychladnutý.
