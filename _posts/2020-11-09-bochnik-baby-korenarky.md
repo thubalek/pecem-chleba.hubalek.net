@@ -1,23 +1,21 @@
 ---
 layout: post
-title:  Kváskový chleba "Kostěj nesmrtelný"
-date:   2020-11-08 11:23:56 +0100
+title:  Kefírový kváskový chleba s bylinkami
+date:   2020-11-09 11:23:56 +0100
 categories: recepty kvaskovy-chleb
 ---
-Super jednoduchý pšenično žitný chleba, výsledná hmotnost chleba je cca 1.3kg. První chleba, který jsem kdy pekl. A stále můj nejoblíbenější denní chleba.
 
-Recept vychází z receptu [Celokváskový pšenično-žitný chléb](http://www.pekarnomanie.cz/celokvaskovy-psenicno-zitny-chleb/) z [Pekárnománie](http://www.pekarnomanie.cz) a trochu jsem ho upravil na moje podmínky.
+Tenhle chleba je náš další oblíbený. Je to velmi efektní dárek, každého hned zaujme vzhledem. Původní recept pochází z [Pekárnománie](http://www.pekarnomanie.cz/bochnik-baby-korenarky/), neměnil jsem ho, jen ho dělám ve velikosti 1 a 1/2.
 
-
-![Kváskový chléb "Kostěj nesmrtelný"](/assets/kvaskovy-chleb-kostej-nesmrtelny.jpg)
+![Kefírový kváskový chleba s bylinkami](/assets/kefirovy-kvaskovy-chleba.jpg)
 
 ## Postup
 
 ### Večer
 Uděláme rozkvas. Do mísy dáme 
-- 300g žitné chlebové mouky
-- 300g vody
-- 75g kvasu
+- 45g kvasu
+- 225g vody
+- 210g žitné celozrné mouky
 
 a zamícháme. Necháme kynout při pokojové teplotě.
 
@@ -27,15 +25,17 @@ a zamícháme. Necháme kynout při pokojové teplotě.
 Rozkvas by měl být už krásně nakynutý, měl by být cítit po chlebu, mírně nakyslý a s dírkami po uniklém CO<sup>2</sup>.
 
 Přidáme 
+- 150g kefíru
 - 150g vody
-- 500g pšeničné chlebové mouky
-- 4 kávové lžičky soli
-- 3 kávové lžičky drceného kmínu
+- 540g pšeničné chlebové mouky
+- 3 čajové lžíčky soli
+- 3 čajové lžičky drceného kmínu
 
 Postup
 - Důkladně prohněteme [dánskou metlou](https://zevsi.cz/blog/k-cemu-je-danska-metla-na-testo-neboli-brodpisker-a-jak-vam-pomuze) (nebo vařečkou) alespoň *10 minut*. Tuto fázi *nepodcenit*. Opravdu to  trvá tak dlouho! Nepřidávejte mouku, pokud se vám těsto zdá řídké, ale více hněťte. Těsto se přestane lepit na vařečku.
 - Necháme ještě tak 1 až 2 hodiny nakynout při pokojové teplotě v míse. Kynutí je poměrně pomalé a není tak moc vidět. Nečekejte tak viditelný pokrok jak např. u buchet.
 - Vyklopíme na pomoučený vál a těsto přeložíme (vezmeme "roh" těsta a překlopíme ho jakoby do středu. Lehce pootočíme, vezmeme další roh a opět přeložíme. Opakujeme několikrát).
+- Ošatku vyložíme lístky bylinek (rozmarýn, petrželka, libeček, ...)
 - Vytvarujeme bochník a dáme do pomoučené ošatky kynout ještě tak další hodinu nebo dvě. Těsto je vykynuté, pokud se při píchnutí prstem pomalu vrátí zpět během asi jedné minuty. Pokud je to dříve, ještě může kynout.
 
 ### Pečení
@@ -52,8 +52,4 @@ Nakrojit se může teprve až bude úplně vychladnutý.
 
 ### Použití
 
-Tento chleba se skvělý jako každodenní univerzální chléb. Jsou z něho taky skvělé topinky.
-
-### Zajímavosti
-
-Proč se tento chleba u nás v rodině jmenuje Kostěj nesmrtelný? Protože jsme ho vzali s sebou na dovolou a vydržel i v poměrně extrémních podmínkách dovolené pod stanem ještě spoustu dní jedlý. Proto nesmrtelný.
+Tento chleba se skvělý dárek. Hodí se stejně tak i jako univerzální denní chléb.
